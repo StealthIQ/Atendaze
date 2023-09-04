@@ -1,0 +1,9 @@
+[submodule "erp_admin"]
+	path = erp_admin
+	url = https://github.com/navaneeth-dev/erp_admin.git
+[submodule "erp-backend"]
+	path = erp-backend
+	url = https://github.com/navaneeth-dev/erp-backend.git
+[submodule "erp_student"]
+	path = erp_student
+	url = https://github.com/SivaramTechie/erp_student.git
