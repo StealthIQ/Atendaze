@@ -38,8 +38,7 @@ To start using the Full Stack Attendance Monitoring System for Students, follow 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![Imgur](https://i.imgur.com/0sdN2Ze.png)
 ## Key Features
 
 ### User Logins
