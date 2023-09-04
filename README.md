@@ -34,8 +34,10 @@ To start using the Full Stack Attendance Monitoring System for Students, follow 
 - Install dependencies.
 
 2. Run the executable file.
-  
 
+- **Executable [Link](https://drive.google.com/drive/folders/13UE721dRxpouuErYKsXeVM9layDHLuIw?usp=drive_link) **
+
+3. **Backend** [Link](https://discord.com/channels/1145271107839074386/1145271107839074393/1148250888218083438)
 ## Screenshots
 
 ![Imgur](https://i.imgur.com/0sdN2Ze.png)
