@@ -110,6 +110,6 @@ A: To access the system, download the executable file and follow the installatio
 | Lavender | ![#BC6FF1](https://via.placeholder.com/10/BC6FF1?text=+) #BC6FF1 | rgb(188, 111, 241)|
 
 ## Authors
-- [@navaneeth-dev](https://www.github.com/navaneeth-dev)
-- [@shivram](https://github.com/SivaramTechie)
-- [@stealthiq](https://github.com/StealthIQ)
+- [@Navaneeth](https://www.github.com/navaneeth-dev)
+- [@Shivram](https://github.com/SivaramTechie)
+- [@Adarsh](https://github.com/StealthIQ)
